@@ -4,4 +4,4 @@ Trend Analysis
 
 2.The age demographic of users follows a fairly symmetrical distribution with a sharp peak at 20-24, and the tail being slightly longer on the right side for the older age base. 
 
-3.The top 2 most popular games (1.Final Critic, 2.Oathbreaker) are also the most profitable. Interestingly Nirvana is the 3rd most profitable game due to its higher price point, but does not make the top 5 most popular.
+3.The top 2 most popular games ( 1.Final Critic, 2.Oathbreaker) are also the most profitable. Interestingly Nirvana is the 3rd most profitable game due to its higher price point, but does not make the top 5 most popular.
